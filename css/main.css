@@ -1,0 +1,13 @@
+div.sn-notification {
+	color: #fff;
+	font-size: 1.1em;
+}
+
+div.sn-notification a {
+	color: #fff;
+	border-bottom: 1px dashed #fff;
+}
+div.notification-post {
+	height: 40px;
+	line-height: 40px;
+}
